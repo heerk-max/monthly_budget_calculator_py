@@ -32,4 +32,8 @@ How much did you spend on rent? \$20
 
 # Then it tells you your leftover savings and income spent:
 Your remaining budget is: \$70
-Your income spent is:\$30s
+Your income spent is:\$30s 
+```
+## ✍️ Author
+
+- **Heer K.**
