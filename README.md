@@ -19,7 +19,7 @@ A friendly Python tool to help you track your monthly income, see where your mon
 2. Download or clone this project to your machine.
 3. Open your computer's terminal or command prompt, go to the project folder, and run:
    ```bash
-   python calculator.py
+   level_4.20.py
    ```
 
 ## 📝 Example
